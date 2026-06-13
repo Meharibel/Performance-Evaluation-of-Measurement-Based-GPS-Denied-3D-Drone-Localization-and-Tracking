@@ -15,7 +15,7 @@ These images are direct exports of the archived MATLAB `.fig` files. They were n
 |---|---|---|
 | ![Linear height result](results/figures/linear/Z_lz.png) | ![Zigzag height result](results/figures/zigzag/Z_zig.png) | ![Up-down height result](results/figures/up-down/Z_ud.png) |
 
-The complete X, Y, Z, azimuth, elevation, range, and error-distribution figures are available in [`results/figures`](results/figures). Their original MATLAB FIG and EPS versions remain in the experiment folders.
+The complete X, Y, Z, azimuth, elevation, range, and error-distribution figures are available in [`results/figures`](https://github.com/Meharibel/Performance-Evaluation-of-Measurement-Based-GPS-Denied-3D-Drone-Localization-and-Tracking/tree/main/results/figures). Their original MATLAB FIG and EPS versions remain in the experiment folders.
 
 ## Repository Structure
 
