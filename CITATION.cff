@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated paper."
+title: "Performance Evaluation of Measurement-Based GPS-Denied 3D Drone Localization and Tracking"
+type: software
+authors:
+  - family-names: Meles
+    given-names: Mehari
+  - family-names: Rajasekaran
+    given-names: Akash
+  - family-names: Mela
+    given-names: Lauri
+  - family-names: Ghazalian
+    given-names: Reza
+  - family-names: Ruttik
+    given-names: Kalle
+  - family-names: Jantti
+    given-names: Riku
+preferred-citation:
+  type: conference-paper
+  title: "Performance evaluation of measurement based GPS denied 3D drone localization and tracking"
+  authors:
+    - family-names: Meles
+      given-names: Mehari
+    - family-names: Rajasekaran
+      given-names: Akash
+    - family-names: Mela
+      given-names: Lauri
+    - family-names: Ghazalian
+      given-names: Reza
+    - family-names: Ruttik
+      given-names: Kalle
+    - family-names: Jantti
+      given-names: Riku
+  collection-title: "2023 IEEE Wireless Communications and Networking Conference (WCNC)"
+  publisher:
+    name: IEEE
+  year: 2023
+  doi: 10.1109/WCNC55385.2023.10118816

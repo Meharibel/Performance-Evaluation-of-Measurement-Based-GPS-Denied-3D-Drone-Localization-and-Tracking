@@ -1,0 +1,32 @@
+in each measurement drone is moving in some pattern
+periods: 
+1: up / down movement in place..
+
+2: zig zag movement ..
+
+3: zig zag movement
+
+4: flying high straight across the parking lot..
+
+5: flying high straight across the parking lot=
+
+6: flying high across the parking lot, but more random movement pattern.
+7: mid height zig zag movement:.
+
+8: flying low straight across the parking lot, much closer to antenna arrays
+            [0,    0;
+             0.306,0;
+             0.612,0;
+             0.918,0;
+             0.153,0.306;
+             0.459,0.306;
+             0.765,0.306;
+             1.071,0.306;
+             0,    0.612; 
+             0.306,0.612;
+             0.612,0.612;
+             0.918,0.612;
+             0.153,0.918;
+             0.459,0.918;
+             0.765,0.918;
+             1.071,0.918 ]; 

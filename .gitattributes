@@ -1,0 +1,7 @@
+experiments/** binary
+dependencies/** binary
+*.mat binary
+*.fig binary
+*.eps binary
+*.png binary
+*.pdf binary
